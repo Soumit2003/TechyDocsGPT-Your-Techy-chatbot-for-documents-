@@ -9,10 +9,15 @@ TechyDocsGPT is an AI-powered document indexing and retrieval system that enable
 - **Chatbot Interface**: Ask questions and receive AI-generated responses.
 - **Streaming Responses**: Displays responses in real-time.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/966cb5d4-7e99-4fb7-b54f-b6d2acfb239e" width="45%"> 
+  <img src="https://github.com/user-attachments/assets/c043c8e2-e74c-4519-b138-8c49e9732a0d" width="45%">
+</p>
+
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/TechyDocsGPT.git
+   git clone https://github.com/Soumit2003/TechyDocsGPT.git
    cd TechyDocsGPT
    ```
 2. Create a virtual environment and activate it:
@@ -52,5 +57,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 No official license has been applied to this project yet.
 
 ## Author
-Developed by [Soumit Roy](https://github.com/Soumit2003) 🚀
+Developed by [Your Name](https://github.com/Soumit2003) 🚀
 
